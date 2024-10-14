@@ -1,10 +1,10 @@
-## Exercícios de Python 🐍
-Este repositório contém uma coleção de exercícios de Python, cobrindo uma variedade de tópicos e níveis de dificuldade.
+## Python Exercises 🐍
+This repository contains a collection of Python exercises
 
-Conteúdo:
-Estruturas de Controle: Condicionais e Loops
-Manipulação de Strings e Listas
-Funções e Recursividade
-Tratamento de Exceções
-Manipulação de Arquivos
-Desafios Algorítmicos
+Topics Covered:
+Basic Syntax and Data Types
+Conditional Statements and Loops
+Functions and Recursion
+Error Handling
+File Handling
+Algorithmic Challenges
